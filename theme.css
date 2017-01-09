@@ -1,0 +1,34 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-image: url(background.png);
+}
+
+#container {
+  height: 100%;
+  margin: 0 auto;
+}
+
+#btnCont {
+  margin: 0 auto;
+  height: 40%;
+}
+
+#upBTN {
+  background-image: url(upBTN.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  max-width: 4%;
+  height: 20%;
+}
+
+#downBTN {
+  background-image: url(downBTN.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  max-width: 4%;
+  height: 20%;
+}
